@@ -179,3 +179,5 @@ DJOSER = {
 SMS_BACKEND = 'sms.backends.console.SmsBackend'
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+CSRF_TRUSTED_ORIGINS = ['https://paperless-fcsit-production.up.railway.app/']
