@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1da9b014-abce-43b7-befd-8071afaa8157" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DRF/.idea/DRF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/DRF-TDD-example-master/.idea/DRF-TDD-example-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/REST-API-master/.idea/REST-API-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf-SimpleJWT-React-master/.idea/drf-SimpleJWT-React-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf-master/.idea/drf-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/.idea/drf_docs_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/snippets/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/snippets/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_docs_project/snippets/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_tutorial/.idea/drf_tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_tutorial/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_tutorial/backend/.idea/drf_tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_tutorial/js_client/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/drf_tutorial/js_client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/library-drf/.idea/library-drf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/library-drf/blog/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.idea/mdn_diy_drf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/blog/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/templates/reset_password_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/users/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/users/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRF/mdn_diy_drf/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/Django REST Framework/watchmate/.idea/watchmate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/.idea/ats_ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/ajax/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/assets/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/ignore_in_wp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/lightcase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/pe-icon-7-stroke.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/preset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/css/themewar-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/fonts/revicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/fonts/revicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/fonts/revicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/fonts/themewar.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/about/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/about/video-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/ajax.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo-grayscale/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo-grayscale/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo-grayscale/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo-grayscale/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo-grayscale/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/client-logo/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/headphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/home/headphone2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/images/shop/single-product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/js/extensions/source/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/ats_ecommerce/static/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/orders/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/templates/includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/templates/includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/ats_ecommerce/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/book_store/.idea/book_store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/docs_project/.idea/docs_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/feedback/.idea/feedback.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mini_blog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mini_blog/.idea/mini_blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mini_blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mini_blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mini_blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mini_blog/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mini_blog/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/monthly_challenges/.idea/monthly_challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/mypage/.idea/mypage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django Projects/profiles/.idea/profiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advanced_django/storefront3/store/static/store/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advanced_django/storefront3/store/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/.idea/ecommerce_api_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/accounts/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/accounts/renderers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/accounts/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/ajax/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/assets/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/ignore_in_wp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/lightcase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/pe-icon-7-stroke.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/preset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/css/themewar-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/lightcase.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/lightcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/lightcase.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/lightcase.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/revicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/revicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/revicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/revicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/themewar.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/themewar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/themewar.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/fonts/themewar.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/about/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/about/video-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/ajax.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/blog-details.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/r1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/r2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/blog/r3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/cart/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/cart/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/cart/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/cart/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/blog/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/blog/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/blog/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo-grayscale/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo-grayscale/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo-grayscale/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo-grayscale/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo-grayscale/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/client-logo/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/headphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/headphone2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/layer1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/layer2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/layer3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/layer4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/p9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/scroll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/shape1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/shape2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/shape3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/shape4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/truck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/truck2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/home/undo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/payments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/banner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/new_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/images/shop/single-product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.actions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.migration.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.navigation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/revolution.extension.video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.kenburn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.layeranimation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.migration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.slideanims.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/extensions/source/revolution.extension.video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.appear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.countdown.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.plugin.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.shuffle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.themepunch.revolution.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/lightcase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/shuffle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/js/tweenmax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/ecommerce_api_project/static/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/templates/includes/alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/templates/includes/categories_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/templates/includes/dashboard_sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/templates/includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/backend/templates/includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/frontend/.idea/ReactJS-ecommerce-template-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce_api_project/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mdn-DIY-mini-blog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mdn-DIY-mini-blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mdn-DIY-mini-blog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mdn-DIY-mini-blog/.idea/mdn-DIY-mini-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mdn-DIY-mini-blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mdn-DIY-mini-blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serailization-and-crud-django-rest-framework-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_drf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_drf/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_drf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_drf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_drf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/blog/templates/blog/includes/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/blog/templates/blog/includes/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/my_site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/my_site/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/my_site/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/my_site/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django Projects/my_site/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Django Projects/my_site/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day 2/collatz_sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day 2/composition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_3/exercise_zigzag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_3/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_3/hw_day3_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_3/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_3/password_gen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_4/bin_to_decimal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_4/constant_funcs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_4/day4_class_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_4/encyption_decryption_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_4/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_4/triangles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_4/zigzag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_5/is_prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_5/list_exercise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_5/max_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_5/pangram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/day_5/sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_1_ATS/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week_2_ATS" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="67782b6a-0211-4c6a-bfb0-ab4faac590c6" />
+        <option name="url" value="https://github.com/ahmedootech/paperless-fcsit.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JJok97Tu1QLFChNXpzhuRMtVKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Desktop/Python-Django Projects/paperless-fcsit&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\paperless_fcsit" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="paperless_fcsit" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="paperless_fcsit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1da9b014-abce-43b7-befd-8071afaa8157" name="Changes" comment="" />
+      <created>1671805686735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671805686735</updated>
+      <workItem from="1671805688241" duration="8928000" />
+      <workItem from="1671969355756" duration="138000" />
+      <workItem from="1672051135715" duration="1456000" />
+      <workItem from="1672052634229" duration="17025000" />
+      <workItem from="1672490835509" duration="693000" />
+      <workItem from="1672740638437" duration="6800000" />
+      <workItem from="1673475236295" duration="2413000" />
+      <workItem from="1673716124064" duration="21594000" />
+      <workItem from="1673778722704" duration="28668000" />
+      <workItem from="1673902052759" duration="5776000" />
+      <workItem from="1673933583436" duration="27560000" />
+      <workItem from="1674042363260" duration="3122000" />
+      <workItem from="1686485144596" duration="499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backend/backend/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/paperless_fcsit$models.coverage" NAME="models Coverage Results" MODIFIED="1673951275375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/accounts" />
+  </component>
+</project>
