@@ -23,6 +23,7 @@ ALLOWED_HOSTS = [
     '.now.sh',
     '127.0.0.1',
     'localhost',
+    'paperless-fcsit-production.up.railway.app',
 ]
 
 # Application definition
