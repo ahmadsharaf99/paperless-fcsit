@@ -3,7 +3,7 @@ from rest_framework import serializers
 
 from administration.signals import generate_otp
 from .models import LevelCoordinator, CoordinatingInfo, LevelCoordinatorProfile
-from students.serializers import FacultyInlineSerializer, DepartmentInlineSerializer
+from students.serializers import FacultyInlineSerializer, DepartmentInlineSerializer, ProgrammeInlineSerializer
 
 
 class LevelCordSerializer(serializers.ModelSerializer):
@@ -39,7 +39,7 @@ class InlineStaffSerializer(serializers.ModelSerializer):
 class LevelCoordinatorProfileCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = LevelCoordinatorProfile
-        fields = ['id', 'staff', 'passport_photo', 'gender', 'date_of_birth', 'faculty', 'department',]
+        fields = ['id', 'staff', 'passport_photo', 'gender', 'date_of_birth', 'faculty', 'department', ]
 
 
 class LevelCoordinatorProfileSerializer(serializers.ModelSerializer):
@@ -60,6 +60,15 @@ class LevelCoordinatorProfileSerializer(serializers.ModelSerializer):
         return LevelCoordinatorProfile.objects.create(staff_id=staff, **validated_data)
 
 
+class CustomCoordinatingInfoSerializer(serializers.ModelSerializer):
+    staff_info = InlineStaffSerializer(source='staff', read_only=True)
+    programme = ProgrammeInlineSerializer(read_only=True)
+
+    class Meta:
+        model = CoordinatingInfo
+        fields = ['id', 'staff', 'staff_info', 'programme', 'assigned_level']
+
+
 class CoordinatingInfoSerializer(serializers.ModelSerializer):
     staff_info = InlineStaffSerializer(source='staff', read_only=True)
 
@@ -68,7 +77,7 @@ class CoordinatingInfoSerializer(serializers.ModelSerializer):
         fields = ['id', 'staff', 'staff_info', 'programme', 'assigned_level']
 
     def validate(self, attrs):
-        if not self.context['request'].method == 'DELETE':
+        if self.context['request'].method in ['POST', 'PUT', 'PATCH']:
             instance = CoordinatingInfo(**attrs)
             instance.clean()
             return attrs

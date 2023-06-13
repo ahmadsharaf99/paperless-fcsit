@@ -155,7 +155,7 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
 STATIC_URL = '/static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'backend', 'static')
+    os.path.join(BASE_DIR, 'backend', 'backend', 'static')
 ]
 
 SIMPLE_JWT = {
